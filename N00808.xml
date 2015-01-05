@@ -122,8 +122,8 @@
          <text xml:lang="eng">
             <front>
                <div type="publishers_advertisement">
-                  <pb facs="tcp:000971_0000_0FAE3A20A306EF28"/>
-                  <pb facs="tcp:000971_0001_0FAE3A21A060B628"/>
+                  <pb facs="unknown:000971_0000_0FAE3A20A306EF28"/>
+                  <pb facs="unknown:000971_0001_0FAE3A21A060B628"/>
                   <head>Advertisements.</head>
                   <p>A <hi>Token for Children:</hi> Being an exact Account of the Conve<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -146,7 +146,7 @@
                   </p>
                </div>
                <div type="title_page">
-                  <pb facs="tcp:000971_0002_0FAE3A2225875490"/>
+                  <pb facs="unknown:000971_0002_0FAE3A2225875490"/>
                   <p>Military Discipline. THE COMPLEAT SOULDIER, OR Expert Artillery-Man.</p>
                   <p>CONTAINING The several Postures and Exercises of the <hi>Musket</hi> &amp; <hi>Fire-lock</hi>; with various Beats of the <hi>Drum,</hi> neces<g ref="char:EOLhyphen"/>sary for Young Souldiers.</p>
                   <p>ALSO Divers ways of Exercising a <hi>Company</hi>; very useful for all <hi>Officers,</hi> and others that delight in <hi>Military Affairs.</hi>
@@ -157,14 +157,14 @@
                      <hi>Boston,</hi> Printed for and Sold by <hi>Nicholas Boone,</hi> over against the old-Church, 1701</p>
                </div>
                <div type="to_the_reader">
-                  <pb facs="tcp:000971_0003_0FAE3A26630633A8"/>
+                  <pb facs="unknown:000971_0003_0FAE3A26630633A8"/>
                   <head>TO THE Reader.</head>
                   <opener>
                      <salute>Courteous Reader,</salute>
                   </opener>
                   <p>
                      <hi>I</hi> Have set forth this small <hi>Treatise,</hi> principally aiming at the benefit of my Country, wherein I hope I shall not prove Unserviceable: Books of this nature are much wanted, but much more the pract<g ref="char:EOLhyphen"/>ice. The method of this Book will I hope be extreamly pleasing; the bulk of other Books of this nature being so large, that they require much time to peruse, and money to purchase; of which two things, many persons desirous of Experience in <hi>Military</hi> Affairs, can spare neither. Though it be Peace in our Land at this day, yet we ought to prepare in Peace for Times of War. Intervals of time may herein be spent by Youth, and by the help of
-<pb facs="tcp:000971_0004_0FAE3A2894BF0900"/>
+<pb facs="unknown:000971_0004_0FAE3A2894BF0900"/>
 this Book may become their own Tutors, and every private Shop become an <hi>Accademy of Arms.</hi> I have Considered the Authors of b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>st Note, upon this Subject, as Collonel <hi>Rich<g ref="char:EOLhyphen"/>ard Elton,</hi> Collonel <hi>William Barriff</hi> and o<g ref="char:EOLhyphen"/>thers; but find them to be most in use among us, having nothing to do, with the <hi>Ancients,</hi> as <hi>Plutarch, Vegetius, Xenophon, Homer, Justin, Tulley, &amp;c.</hi> I know that some will not be <hi>wanting,</hi> to disparage this <hi>work</hi> and the <hi>Workman,</hi> some may Carp at it, and say we expected some new thing, not an old heap of stuff: to such I say, let them mend it, as also lead us in a good new way, and I, whatever others are, shall be very thankful; 'tis easier to find faults then to mend them. I must ingeniously confess, that I am one of the meanest, both for Skill and Scholarship to have undertaken a work of this nature. To the <hi>Courteous</hi> and <hi>Skilful,</hi> into whose hands this may come, whose better parts will yield better fruits. I shall request their favourable Censure, and with their Judgments, mend what <hi>I</hi> have mist, for which their loves, <hi>I</hi> shall stand ever engaged.</p>
@@ -175,17 +175,17 @@ this Book may become their own Tutors, and every private Shop become an <hi>Acca
             </front>
             <body>
                <div type="text">
-                  <pb n="7" facs="tcp:000971_0005_0FAE3A29F059EE00"/>
+                  <pb n="7" facs="unknown:000971_0005_0FAE3A29F059EE00"/>
                   <head>THE Compleat Souldier, Or, EXPERT ARTILLERY-MAN.</head>
                   <div n="1" type="chapter">
                      <head>CHAP. I. By way of Introduction.</head>
                      <p>THe first Rudiments of Education wherewithal a young Souldier ought to be conversant in, is first to learn the right use of his Arms, than which nothing can make a man more compleat, nor fit him to bear the Name of a Souldier; neither can a man whatever attain to the least part of the Art-Military (which concerneth Foot Souldiers) with<g ref="char:EOLhyphen"/>out the Handling and Managing of his Arms. How delight<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ul is it to those that
-<pb n="8" facs="tcp:000971_0006_0FAE3A2A85F884C8"/>
+<pb n="8" facs="unknown:000971_0006_0FAE3A2A85F884C8"/>
 can perform this first Part? And with what Ease, Courage and Safety, can they both defend themselves, and offend their Enemies? Whereon the contrary, the chiefest Arms (without Exercise) become not onely toublesome Burthens unto the unskilful Bearers, but oftentimes prove hurtful and dangerous, both to themselves and others: Therefore this ought to be considered by all, who intend any profici<g ref="char:EOLhyphen"/>ency in this part of the <hi>Art Military</hi>; that both with Art and Courage (in time of danger) Defend both their King and Country. It hath been the manner of all famous Generals to bring their Souldiers to perfection by Exercise: <hi>Vegetius</hi> saith vey well, <hi>It is not length of Life or number of Years, that teacheth the Art of War, but continual Discipline, and Exercise of Arms: Let a Souldier Serve never so many years, so long as he is Unexercised, he shall still be a raw Souldier.</hi> No man is born a Souldier naturally, one may more incline to War than another; but the skill cometh not without industry and pains.</p>
                      <p>Notable was the saying of <hi>Pyrrhus</hi> to his Muster-Master; <hi>Chuse you</hi> (saith he) <hi>Good Bodies, and I will make them Good Soul<g ref="char:EOLhyphen"/>diers:</hi> A strong Body is most requisite in a Good Souldier, to undergo the Labours
-<pb n="9" facs="tcp:000971_0007_0FAE3A2B215EC150"/>
+<pb n="9" facs="unknown:000971_0007_0FAE3A2B215EC150"/>
 of War; but it is Exer<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ise and desire to handle Weapons that giveth the perfect skill. Therefore as <hi>Demosthenes,</hi> being de<g ref="char:EOLhyphen"/>manded what was the first and principal thing in the <hi>Art Oratory:</hi> answered <hi>Action</hi>; what the second, <hi>Action</hi>; what the third, Action; so we may truly say, that in the <hi>Art Military,</hi> Exercise is not only the first, second and third principal thing to make a Souldier, but also all in all. I could have given you an account of the Exercise used in Ancient Time, and of the Victo<g ref="char:EOLhyphen"/>ries which have been obtained by a small number of men well Exercised, against a multitude Unskilful and Untrained: But that not being pertinent to my intent, and having too much transgressed already, I shall give next a touch upon the Definition of a <hi>Posture.</hi>
@@ -194,7 +194,7 @@ of War; but it is Exer<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <div n="2" type="chapter">
                      <head>CAAP. II. The Definition of Posture.</head>
                      <p>POSTURE is conceived to be a Garb or Figure that a man stands in for the well handling of his Arms, in which there are Motions attendant unto the same
-<pb n="10" facs="tcp:000971_0008_0FAE3A2BF6C68988"/>
+<pb n="10" facs="unknown:000971_0008_0FAE3A2BF6C68988"/>
 for the better grace, and becoming of them. Likewise by Motion it carries a neat Agility of the Body, whereby the right handling of their Arms is atchieved, and so becomes easie; <hi>Motion</hi> being the working part, <hi>Posture</hi> the alteration or act, either in circumstance or matter: as to <hi>Rest your Musket</hi> being one Posture; to <hi>Shoulder your Musket</hi> another; so likewise the rest.</p>
                   </div>
                   <div n="3" type="chapter">
@@ -220,7 +220,7 @@ for the better grace, and becoming of them. Likewise by Motion it carries a neat
                      <div type="instruction">
                         <head>Poise your Musket.</head>
                         <p>Grasp your Musket hard, facing to the Right with a quick motion upon your left heel, keeping your Musket directly
-<pb n="11" facs="tcp:000971_0009_0FAE3A2CA7823E18"/>
+<pb n="11" facs="unknown:000971_0009_0FAE3A2CA7823E18"/>
 before you the height of your Neckloth, your right Elbow on your side, your feet neither too near, nor at too great a distance.</p>
                      </div>
                      <div type="instruction">
@@ -234,7 +234,7 @@ before you the height of your Neckloth, your right Elbow on your side, your feet
                      <div type="instruction">
                         <head>Guard your Musket.</head>
                         <p>Keeping your Thumb upon the Cock, and your fingers behind the Trigger, you bring up your Musket with a very quick
-<pb n="12" facs="tcp:000971_0010_0FAE3A2D64DEACC8"/>
+<pb n="12" facs="unknown:000971_0010_0FAE3A2D64DEACC8"/>
 motion streight before you to the <hi>Reco<g ref="char:EOLhyphen"/>ver,</hi> your Left Hand as high as your mouth, half a foot from it without stoop<g ref="char:EOLhyphen"/>ing.</p>
                         <p>Let not your Musket sink, but keep it at the height: Always observing when you bring up your Musket before, (which is Recovering the Musket) to bring your Right heel to your left instep; and be sure to have a care of tossing the Muzzel of your Musket backwards, but keep it streight up right.</p>
                      </div>
@@ -247,12 +247,12 @@ motion streight before you to the <hi>Reco<g ref="char:EOLhyphen"/>ver,</hi> you
                         <p>Be sure to draw your Trigger at one motion, keeping your Body very steady, taking aim, and your Musket fast to your Shoulder, till you have the word of Com<g ref="char:EOLhyphen"/>mand to recover your Arms.</p>
                      </div>
                      <div type="instruction">
-                        <pb n="13" facs="tcp:000971_0011_0FAE3A2E287DBCE8"/>
+                        <pb n="13" facs="unknown:000971_0011_0FAE3A2E287DBCE8"/>
                         <p>
                            <gap reason="illegible" resp="#PDCC" extent="1 page">
                               <desc>〈1 page〉</desc>
                            </gap>
-                           <pb n="14" facs="tcp:000971_0012_0FAE3A3269100620"/>
+                           <pb n="14" facs="unknown:000971_0012_0FAE3A3269100620"/>
 the Pan, and not on the top, keeping your left Toes directly to the Front.</p>
                      </div>
                      <div type="instruction">
@@ -275,7 +275,7 @@ the Pan, and not on the top, keeping your left Toes directly to the Front.</p>
                            </gap>sket the barrel down wards, so bringing it to your le<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>t side a little back<g ref="char:EOLhyphen"/>ward in your left hand, besure that none of your Fingers touch the Barrel. The right foot is to have the Toe directly to the Front, Ballancing your Musket in the left hand, the Muzzel directly to the proper Front, your right hand joyned to
-<pb n="15" facs="tcp:000971_0013_0FAE3A3459898578"/>
+<pb n="15" facs="unknown:000971_0013_0FAE3A3459898578"/>
 the Muzzel of your Musket, your Thumb extended to the side of the Barrel.</p>
                      </div>
                      <div type="instruction">
@@ -301,7 +301,7 @@ the Muzzel of your Musket, your Thumb extended to the side of the Barrel.</p>
                      <div type="instruction">
                         <head>Charge with Bullet.</head>
                         <p>Take the Bullet out of your mouth,
-<pb n="16" facs="tcp:000971_0014_0FAE3A35C611F098"/>
+<pb n="16" facs="unknown:000971_0014_0FAE3A35C611F098"/>
 putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>he great end of the Scowrer.</p>
@@ -339,7 +339,7 @@ putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent=
                         <p>Falling back with your Left Leg even to your Right, stand up all together.</p>
                      </div>
                      <div type="instruction">
-                        <pb n="17" facs="tcp:000971_0015_0FAE3A366CC2D4F0"/>
+                        <pb n="17" facs="unknown:000971_0015_0FAE3A366CC2D4F0"/>
                         <head>Face to the Right about. March.</head>
                         <p>When clear of your Arms you are to disperse, and upon beat of the Drum, to run to your Arms with a <hi>Huzza,</hi> When you draw your Sword take hold of the Scabbard with your Left Hand.</p>
                      </div>
@@ -374,7 +374,7 @@ putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent=
                         <item>
                            <hi>Present</hi> As the Exercise of the Musketiers.</item>
                         <item>
-                           <pb n="18" facs="tcp:000971_0016_0FAE3A374EE95260"/>
+                           <pb n="18" facs="unknown:000971_0016_0FAE3A374EE95260"/>
                            <hi>Fire</hi> 
                         </item>
                         <item>
@@ -413,7 +413,7 @@ putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent=
                         <item>
                            <hi>Cast over to the Left</hi> They are to Seize their Dagger with their right hand.</item>
                         <item>
-                           <pb n="19" facs="tcp:000971_0017_0FAE3A3805A1B620"/>
+                           <pb n="19" facs="unknown:000971_0017_0FAE3A3805A1B620"/>
                            <hi>Withdraw your Dagger</hi> Holding it before you the flat side towards you.</item>
                      </list>
                      <list>
@@ -468,7 +468,7 @@ putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent=
                         <item>
                            <hi>Poise your Firelock</hi> As the Muske<g ref="char:EOLhyphen"/>tiers</item>
                         <item>
-                           <pb n="20" facs="tcp:000971_0018_0FAE3A38C97572A0"/>
+                           <pb n="20" facs="unknown:000971_0018_0FAE3A38C97572A0"/>
                            <hi>Shoulder your Firelock</hi> Upon which word of Com<g ref="char:EOLhyphen"/>mand the Ranks are to close forward, to Six foot, the Sergeants taking care to plant their Halberts at a due distance.</item>
                         <item>
                            <hi>Poise your Firelock</hi>
@@ -515,7 +515,7 @@ putting it into the Barrel, as also <gap reason="illegible" resp="#PDCC" extent=
                   <div n="5" type="chapter">
                      <head>CHAP. V. The Souldiers place of dignity.</head>
                      <p>THe noble Souldier being inquisitive after Honour is much desirous to un<g ref="char:EOLhyphen"/>derstand his place of worth and dignity<g ref="char:punc">▪</g>
-                        <pb n="21" facs="tcp:000971_0019_0FAE3A3960255308"/>
+                        <pb n="21" facs="unknown:000971_0019_0FAE3A3960255308"/>
 which he ever conceives to be as due to him as his Life: which was the reason that caused both the <hi>Grecian</hi> and <hi>Roman</hi> Generals to be so exact and curious in be<g ref="char:EOLhyphen"/>stowing Rewards upon all Valiant Souldiers who were deserving of the same, &amp; accor<g ref="char:EOLhyphen"/>ding to every Man's worth and Dignity, gave him precedence of place and com<g ref="char:EOLhyphen"/>mand over the others, that they might lead and direct them as occasion shall require there for.</p>
                      <p>First, Know that a File is a number of men, beginning at one Leader, and conti<g ref="char:EOLhyphen"/>nuing in order of followers to the last man; or from the first, which is termed a <hi>File-leader,</hi> to the last which is termed a Bringer-up.</p>
                      <p>For the number of a File, our present Discipline only allows four, though in ma<g ref="char:EOLhyphen"/>ny Towns in this Province, they allow six, so that there needs no further dispute con<g ref="char:EOLhyphen"/>cerning the number of a File.</p>
@@ -524,11 +524,11 @@ which he ever conceives to be as due to him as his Life: which was the reason th
                         </gap>nkwiss to one another, standing shoulder to shoulder from the right-hand to the left.</p>
                      <p>Therefore the <hi>File leader</hi> ought to be the worthiest, because he not only commands his <hi>File,</hi> but makes the first on-set against his enemy.</p>
                      <p>
-                        <pb n="22" facs="tcp:000971_0020_0FAE3A3D8704A568"/>The <hi>Bringer up</hi> ought to be the second in place of honour, because he is the last man in the Field marching in the Reer, which upon all occasions he ought to defend.</p>
+                        <pb n="22" facs="unknown:000971_0020_0FAE3A3D8704A568"/>The <hi>Bringer up</hi> ought to be the second in place of honour, because he is the last man in the Field marching in the Reer, which upon all occasions he ought to defend.</p>
                      <p>The Half-file leader is the third in ho<g ref="char:EOLhyphen"/>nour, because he is the leader of the Reer-half-files upon their several Motions, as doubling the Front, either intire, or divi<g ref="char:EOLhyphen"/>sonal.</p>
                      <p>The last man (or Bringer-up) of the Front-half files, is the last man in Dignity; but when the <hi>Reer half files</hi> are commanded off, he hath the honour of defending the Reer.</p>
                      <p>So by this Geometrical Proportion, the whole Body is equivalent in skill &amp; worth, and as it were (and indeed ought to be) seconds the one to the other, so long as life indureth. And then it may be said of them, as <hi>Plutarch</hi> writeth of the holy Band of the <hi>Thebans,</hi> that it was never Beaten until the Battel of <hi>Cheraean</hi>; after which Battel, <hi>Philip</hi> the Father of <hi>Alexander</hi> Sur<g ref="char:EOLhyphen"/>veying the dead bodies, and coming to the place where these three hundred lay, all close mingled one with another, &amp; struck through with the <hi>Macedonian</hi> Pikes, he wondred greatly; but hearing that it was the Band of Lovers and belov'd he wept, and said, <hi>Evilly may they perish, that suspect
-<pb n="23" facs="tcp:000971_0021_0FAE3A3FD92F24C0"/>
+<pb n="23" facs="unknown:000971_0021_0FAE3A3FD92F24C0"/>
 any filthiness in deed, or suffering to have been practised amongst such men.</hi>
                      </p>
                   </div>
@@ -559,7 +559,7 @@ any filthiness in deed, or suffering to have been practised amongst such men.</h
                         </item>
                      </list>
                      <p>The Tato, that is, to shut or make fast your doors, for when this is beaten, all per<g ref="char:EOLhyphen"/>sons ought to repair to their private rest, whether in Military Watches, or Garrison. A Revally is beaten in the Morning by break of day (I suppose it comes from the
-<pb n="24" facs="tcp:000971_0022_0FAE3A420C877D30"/>
+<pb n="24" facs="unknown:000971_0022_0FAE3A420C877D30"/>
                         <hi>French</hi> word <hi>Reviller,</hi> to awake from sleep) at which times the Sub-Officers usually take off their Sentinels.</p>
                      <p>These two (I suppose) cannot be said to be points of War, but only private di<g ref="char:EOLhyphen"/>rections for a Watch or Garrison, the one to give notice at what time they ought to be at Rest, and the other to shew the time that the Gates should be set open, or the Watch break up.</p>
                      <p>Now as you may learn for what end these six several<g ref="char:punc">▪</g> Beats of the Drum are made use of: observe <hi>Bariff,</hi> page 5.</p>
@@ -568,7 +568,7 @@ any filthiness in deed, or suffering to have been practised amongst such men.</h
                      <p>Thirdly, by a <hi>March</hi> you are to under<g ref="char:EOLhyphen"/>stand, to take your <hi>Open Order</hi> in Rank, to shoulder your Arms and to direct your March either quicker or slower, according to the Beat of the Drum.</p>
                      <p>Fourthly, by a <hi>Preparitive</hi> you are to understand to <hi>close</hi> to your due distance both in Rank and File, for skirmish, that so you may execute upon the first Command.</p>
                      <p>Fifthly, by the <hi>Battel</hi> or <hi>Charge,</hi> under<g ref="char:EOLhyphen"/>stand the continuation or pressing forward
-<pb n="25" facs="tcp:000971_0023_0FAE3A426FD6CF98"/>
+<pb n="25" facs="unknown:000971_0023_0FAE3A426FD6CF98"/>
 in order to Battle, boldly <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -581,7 +581,7 @@ in order to Battle, boldly <gap reason="illegible" resp="#PDCC" extent="2 letter
                   <div n="7" type="chapter">
                      <head>CHAP. VII. The several Distances.</head>
                      <p>NOW that our Souldiers have attained some small knowledge in the use of their Arms, and rightly understand the Beats of the Drum; it will be expedient
-<pb n="26" facs="tcp:000971_0024_0FAE3A43432D3F68"/>
+<pb n="26" facs="unknown:000971_0024_0FAE3A43432D3F68"/>
 in the next place to shew them the several distances: which are these four, <hi>Viz.</hi>
                      </p>
                      <list>
@@ -624,7 +624,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <list>
                         <head>Command.</head>
                         <item>
-                           <pb n="27" facs="tcp:000971_0025_0FAE3A43E6D61F98"/>
+                           <pb n="27" facs="unknown:000971_0025_0FAE3A43E6D61F98"/>
                            <hi>Ranks close forward To Order</hi>
                         </item>
                         <item>
@@ -670,7 +670,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <p>But if any one have a desire to be fur<g ref="char:EOLhyphen"/>ther satisfyed concerning distances, let them Read <hi>Bariff, Ward, Elton,</hi> who have suffi<g ref="char:EOLhyphen"/>ciently treated on this subject: this being intended only as a Pocket book for young Souldiers.</p>
                   </div>
                   <div n="8" type="chapter">
-                     <pb n="28" facs="tcp:000971_0026_0FAE3A44B5B21800"/>
+                     <pb n="28" facs="unknown:000971_0026_0FAE3A44B5B21800"/>
                      <head>CHAP. VIII. Of Faceings.</head>
                      <p>BEfore I come to shew the variety of <hi>Faceings</hi> in Action, I think it will not be amiss to define unto you what is meant by <hi>Faceing.</hi>
                      </p>
@@ -713,7 +713,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                         </item>
                      </list>
                      <list>
-                        <pb n="29" facs="tcp:000971_0027_0FAE3A45B8FCDA18"/>
+                        <pb n="29" facs="unknown:000971_0027_0FAE3A45B8FCDA18"/>
                         <head>Command.</head>
                         <item>
                            <hi>To the Right As you were</hi>
@@ -781,7 +781,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <p>Command. <hi>Face Square, and March.</hi>
                      </p>
                      <p>
-                        <pb n="30" facs="tcp:000971_0028_0FAE3A4623F3A4D0"/>Direction. The first Rank <hi>Stand,</hi> the last Rank <hi>Face about,</hi> the Center Ranks, <hi>Face to the Right and Left.</hi>
+                        <pb n="30" facs="unknown:000971_0028_0FAE3A4623F3A4D0"/>Direction. The first Rank <hi>Stand,</hi> the last Rank <hi>Face about,</hi> the Center Ranks, <hi>Face to the Right and Left.</hi>
                      </p>
                      <p>Reducement. <hi>Face to the Right about. March. Close your Divisions. To your Leader.</hi>
                      </p>
@@ -819,7 +819,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                            <hi>Face to the Left] Angle in the Reer</hi>
                         </item>
                         <item>
-                           <pb n="31" facs="tcp:000971_0029_0FAE3A4A93BA2BC0"/>
+                           <pb n="31" facs="unknown:000971_0029_0FAE3A4A93BA2BC0"/>
                            <hi>Face to the Outward]</hi>
                         </item>
                         <item>
@@ -858,7 +858,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <p>C. <hi>Ranks,</hi> to the Left-double.</p>
                      <p>D. Every even <hi>Rank</hi> from the Front move forward with the right leg, and dou<g ref="char:EOLhyphen"/>ble the odd.</p>
                      <p>
-                        <pb n="32" facs="tcp:000971_0030_0FAE3A4CC478C680"/>R. <hi>Files,</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="32" facs="unknown:000971_0030_0FAE3A4CC478C680"/>R. <hi>Files,</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>he right-double, Or, <hi>Ranks</hi> as you were.</p>
                      <p>C. <hi>Ranks,</hi> to the right and left double outward.</p>
@@ -876,7 +876,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <p>C. <hi>Half Files,</hi> double your Front to the right and left outward.</p>
                      <p>D. <hi>Half Files,</hi> Advance forwards to the right &amp; left from the midst into the Front.</p>
                      <p>
-                        <pb n="33" facs="tcp:000971_0031_0FAE3A4DE65969D0"/>R. <hi>Files,</hi> double your depth to the right and left inward.</p>
+                        <pb n="33" facs="unknown:000971_0031_0FAE3A4DE65969D0"/>R. <hi>Files,</hi> double your depth to the right and left inward.</p>
                      <p>C. <hi>Half Files,</hi> double your Front to the right and left inward.</p>
                      <p>D. <hi>Half Files,</hi> Move forwards from the Flanks inward into the Front.</p>
                      <p>R. <hi>Files,</hi> Double your depth to the right and left outward.</p>
@@ -894,7 +894,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      </p>
                      <p>C. <hi>Bringers up,</hi> double your Front to the right and left inward.</p>
                      <p>
-                        <pb n="34" facs="tcp:000971_0032_0FAE3A4E67A79898"/>D. <hi>Bringers up</hi>
+                        <pb n="34" facs="unknown:000971_0032_0FAE3A4E67A79898"/>D. <hi>Bringers up</hi>
                         <g ref="char:punc">▪</g> advance forwards from the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>anks inward into the Fron<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -946,7 +946,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                            <desc>•</desc>
                         </gap>side of your right hand men, and double the odd Ranks.</p>
                      <p>
-                        <pb n="35" facs="tcp:000971_0033_0FAE3A4F286629C0"/>R. <hi>Right Half Ranks</hi> double your le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="35" facs="unknown:000971_0033_0FAE3A4F286629C0"/>R. <hi>Right Half Ranks</hi> double your le<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>t Flank, every man plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -983,7 +983,7 @@ in the next place to shew them the several distances: which are these four, <hi>
                      <p>R. <hi>Left Half Ranks,</hi> double entire the depth of your right Flank.</p>
                      <p>C. <hi>Half Files,</hi> double your Front inward entire.</p>
                      <p>D. <hi>Front-Half Files,</hi> face outwards, <hi>March</hi>
-                        <pb n="36" facs="tcp:000971_0034_0FAE3A4FE10523E8"/>
+                        <pb n="36" facs="unknown:000971_0034_0FAE3A4FE10523E8"/>
 clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Half Files,</hi> Move up and double the Front.</p>
                      <p>R. The inmost <hi>Files,</hi> double the depth of your outmost File; Face in opposition, close your division: To your Leader.</p>
                   </div>
@@ -995,7 +995,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                      <p>C. Double your <hi>Ranks</hi> to the right and left by division, every man placeing him<g ref="char:EOLhyphen"/>self on the out side of his right and left hand man.</p>
                      <p>D. Every even Rank from the Front move forth to the right and left outward, and double the odd, placeing your selves on the out-side of your right and left hand man.</p>
                      <p>
-                        <pb n="37" facs="tcp:000971_0035_0FAE3A50A4763698"/>R. The outmost <hi>Files</hi> upon each Flank that moved, double the inmost <hi>Files</hi> to the right and left inward, every man placeing himself on the inside of his right and left hand man.</p>
+                        <pb n="37" facs="unknown:000971_0035_0FAE3A50A4763698"/>R. The outmost <hi>Files</hi> upon each Flank that moved, double the inmost <hi>Files</hi> to the right and left inward, every man placeing himself on the inside of his right and left hand man.</p>
                      <p>C. <hi>Half-Files,</hi> double your Front by di<g ref="char:EOLhyphen"/>vision.</p>
                      <p>D. <hi>Half Files,</hi> face outwards, <hi>March</hi> clear of the standing part: after face to your Leader, Move up even a breast and double the Front.</p>
                      <p>R. The outmost <hi>Files</hi> upon each Flank that moved, double entire the depth of the inmost Files.</p>
@@ -1006,7 +1006,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                      <p>D. <hi>Half-Files,</hi> face about, wheel to the left, <hi>March</hi> up and even the Front.</p>
                      <p>R. Wheel off your <hi>Right Half-Ranks,</hi> and double your left Flank entire to the left.</p>
                      <p>
-                        <pb n="38" facs="tcp:000971_0036_0FAE3A5175152450"/>C. Wheel off your <hi>Reer-Half-Files,</hi> and double your Front to the left-entire.</p>
+                        <pb n="38" facs="unknown:000971_0036_0FAE3A5175152450"/>C. Wheel off your <hi>Reer-Half-Files,</hi> and double your Front to the left-entire.</p>
                      <p>D <hi>Half Files,</hi> face to the Reer. Wheel to the right.</p>
                      <p>R. Wheel off your <hi>Left Half Ranks,</hi> and double your right Flank to the right entire.</p>
                      <p>C Wheel your <hi>Reer half Files</hi> inwards into the midst, and double your Front inward entire.</p>
@@ -1017,7 +1017,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                      <head>CHAP. XII. A Divisional Doubling to the Front by Wheeling.</head>
                      <p>C WHeel off your <hi>Reer half-Files,</hi> and double your Front by division.</p>
                      <p>
-                        <pb n="39" facs="tcp:000971_0037_0FAE3A52207718A0"/>D. <hi>Half Files,</hi> face to the Reer, and wheel about to the right and left, move forward and double the Front.</p>
+                        <pb n="39" facs="unknown:000971_0037_0FAE3A52207718A0"/>D. <hi>Half Files,</hi> face to the Reer, and wheel about to the right and left, move forward and double the Front.</p>
                      <p>R. The outmost <hi>Files</hi> upon each Flank that doubled, wheel about to the right and left inwards, and double entire the depth of the inmost <hi>Files</hi>: To your Leader.</p>
                      <p>Here end the doubling that properly be<g ref="char:EOLhyphen"/>long unto the Front. But by the way, no Leader is tyed to do all these doublings at once, but part of them as he shall think fit.</p>
                   </div>
@@ -1034,7 +1034,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                         <p>C. <hi>Files,</hi> File to the right entire ad<g ref="char:EOLhyphen"/>vancing.</p>
                         <p>R. File four to the right towards the Front.</p>
                         <p>
-                           <pb n="40" facs="tcp:000971_0038_0FAE3A5740F83EC8"/>C. <hi>Files,</hi> File inward into the right Flank.</p>
+                           <pb n="40" facs="unknown:000971_0038_0FAE3A5740F83EC8"/>C. <hi>Files,</hi> File inward into the right Flank.</p>
                         <p>R. <hi>Front-half-Files,</hi> File two to the left: <hi>Reer-half Files,</hi> face about and File two to the right: Face to your Leader, and close your divisions.</p>
                         <p>C. <hi>Files,</hi> File to the right by division.</p>
                         <p>R. <hi>Front-half Files,</hi> File two to the right, and <hi>Reer-half-Files,</hi> face about, and File two to the left: face to your Leader, and close your divisions.</p>
@@ -1045,7 +1045,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                         <p>Fileing inward into the right Flank by division, <hi>Half files</hi> are to face about; then the <hi>Leaders</hi> and <hi>Bringers up</hi> of the right and left, are to lead, and so successively fall into the Reer of each other.]</p>
                      </div>
                      <div type="instructions">
-                        <pb n="41" facs="tcp:000971_0039_0FAE3A59218A4208"/>
+                        <pb n="41" facs="unknown:000971_0039_0FAE3A59218A4208"/>
                         <head>Of Ranks Fileing.</head>
                         <p>
                            <hi>Ranks</hi> Fileing is sooner performed and reduced than <hi>Files</hi> Fileing, and will be more ready to make resistance against any oppo<g ref="char:EOLhyphen"/>sition in the Front.</p>
@@ -1064,7 +1064,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                      <p n="1">1. Maintaining ground. 2. Loosing ground. 3. Gaining ground.</p>
                      <div type="countermarch">
                         <p>
-                           <pb n="42" facs="tcp:000971_0040_0FAE3A5A1DB387E8"/>The distance for <hi>Countermarches</hi> is open order in Rank and File.</p>
+                           <pb n="42" facs="unknown:000971_0040_0FAE3A5A1DB387E8"/>The distance for <hi>Countermarches</hi> is open order in Rank and File.</p>
                         <p>C. <hi>Files,</hi> to the right, Countermarch.</p>
                         <p>Direction. The word of Command be<g ref="char:EOLhyphen"/>ing given, all the <hi>File Leaders</hi> step forward with their right Legs, and face about to the right, every <hi>File-Leader</hi> with his File following him towards the Reer, passing through the enterval on his right hand, observing to keep even in Rank with his right hand man, and not to turn, until he come to the ground whereat first his <hi>File-Leader</hi> began the <gap reason="illegible" resp="#PDCC" extent="3 letters">
                               <desc>•••</desc>
@@ -1078,7 +1078,7 @@ clear of the standing part: To your Lea<g ref="char:EOLhyphen"/>der. <hi>Reer-Ha
                            </gap>ve them not only red<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ced to the same Aspect, but also precisely to the same place,
-<pb n="43" facs="tcp:000971_0041_0FAE3A5A6ACEBD80"/>
+<pb n="43" facs="unknown:000971_0041_0FAE3A5A6ACEBD80"/>
 then if the Countermarch be to the right, Countermarch again to the right, so to the left, without <hi>Faceing.</hi>
                         </p>
                         <p>C. Countermarch <hi>Front</hi> and <hi>Reer</hi> into the midst.</p>
@@ -1098,7 +1098,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                         <p>R. Countermarch your Flanks into the midst, and they are reduced.</p>
                         <p>C. Right &amp; left <hi>Half-Ranks</hi> enterchange ground.</p>
                         <p>
-                           <pb n="44" facs="tcp:000971_0042_0FAE3A5B28D2F168"/>Direction. Face to the right and left inward; <hi>March</hi> and enterchange ground: To your Leader.</p>
+                           <pb n="44" facs="unknown:000971_0042_0FAE3A5B28D2F168"/>Direction. Face to the right and left inward; <hi>March</hi> and enterchange ground: To your Leader.</p>
                         <p>R. Enterchanging of ground back again will reduce; or divisionally to Counter<g ref="char:EOLhyphen"/>march their <hi>Flanks</hi> into the midst of the Battel.</p>
                      </div>
                      <div type="countermarch">
@@ -1135,7 +1135,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                            </gap> stands.</p>
                         <p>R. <hi>Files,</hi> to the left Countermarch, every man turning on the ground he stands.</p>
                         <p>
-                           <pb n="45" facs="tcp:000971_0043_0FAE3A5BE74FB498"/>C. <hi>Bringers-up,</hi> face about to the right; the rest pass through to the right, and place your selves before your <hi>Bringers up.</hi>
+                           <pb n="45" facs="unknown:000971_0043_0FAE3A5BE74FB498"/>C. <hi>Bringers-up,</hi> face about to the right; the rest pass through to the right, and place your selves before your <hi>Bringers up.</hi>
                         </p>
                         <p>D. Face all to the right about; <hi>Bringers-up,</hi> Stand; the rest of the Body pass through to the right, and place your selves before your Bringers-up.</p>
                         <p>☞ <hi>Note,</hi> This motion is begun by the <hi>Rank,</hi> next the <hi>Bringers-up,</hi> and so continued successively by the rest, till the Command be ended.</p>
@@ -1189,7 +1189,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                               <desc>〈◊〉</desc>
                            </gap> their proper File-Leaders, and they are reduced.</p>
                         <p>
-                           <pb n="46" facs="tcp:000971_0044_0FAE3A5CA58DFF98"/>C. <hi>Ranks,</hi> to the right Countermarch, every man turning after his right hand man on the ground he stands.</p>
+                           <pb n="46" facs="unknown:000971_0044_0FAE3A5CA58DFF98"/>C. <hi>Ranks,</hi> to the right Countermarch, every man turning after his right hand man on the ground he stands.</p>
                         <p>Direction. Face all to the right: which being performed, the right hand <hi>File,</hi> toge<g ref="char:EOLhyphen"/>ther with all the rest becomes <hi>Ranks,</hi> &amp; so begin the Countermarch, every <hi>Rank</hi> turning after his right hand man on the ground he stands, so Marcheth forth right beyond that which was the left <hi>Flank.</hi>
                         </p>
                         <p>R. <hi>Right-hand File,</hi> face to the right; the rest pass through to the right, and place your selves before your right hand man.</p>
@@ -1203,7 +1203,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                         <p>Direction. <hi>File Leaders,</hi> face about to the right; the rest pass through to the right, and place themselves behind their <hi>Leaders,</hi> every <hi>Rank</hi> successively passing through, and taking their places.</p>
                         <p>R. <hi>File-Leaders,</hi> face to the <hi>Reer</hi>; the rest pass through to the left, following your <hi>Bringers-up,</hi> placeing your selves behind your Leaders.</p>
                         <p>
-                           <pb n="47" facs="tcp:000971_0045_0FAE3A5D8E441598"/>☞ <hi>Note,</hi> This <hi>Countermarch</hi> may be reduced as the rest, by doing the same to the contrary hand, or by an entire Coun<g ref="char:EOLhyphen"/>termarch of Files.</p>
+                           <pb n="47" facs="unknown:000971_0045_0FAE3A5D8E441598"/>☞ <hi>Note,</hi> This <hi>Countermarch</hi> may be reduced as the rest, by doing the same to the contrary hand, or by an entire Coun<g ref="char:EOLhyphen"/>termarch of Files.</p>
                         <p>This may suffice to be spoken of all the several sorts of <hi>Countermarches,</hi> they being the least usef<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>l of any part of the <hi>Art-Military.</hi> Therefore in the next place I come briefly to treat of <hi>Wheelings.</hi>
@@ -1235,7 +1235,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                         </list>
                      </p>
                      <p>
-                        <pb n="48" facs="tcp:000971_0046_0FAE3A6149583640"/>Direction. The right or left hand man in the Front are the Hinges of these mo<g ref="char:EOLhyphen"/>tions, who with a small motion move to the right or left; the rest, the more their places are remote from the right or left Angle, the more swift must every mans motion be to bring their Aspects unto the place Commanded: following their <hi>Leaders,</hi> and keeping their distance.</p>
+                        <pb n="48" facs="unknown:000971_0046_0FAE3A6149583640"/>Direction. The right or left hand man in the Front are the Hinges of these mo<g ref="char:EOLhyphen"/>tions, who with a small motion move to the right or left; the rest, the more their places are remote from the right or left Angle, the more swift must every mans motion be to bring their Aspects unto the place Commanded: following their <hi>Leaders,</hi> and keeping their distance.</p>
                      <p>R. If <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> wheel to the right about, then Wheel to the right about again. If to the left, then to the left, this being the nearest both of A<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1266,7 +1266,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                      <p>C. Wheel the Body off by division from the <hi>Reer,</hi> into the <hi>Front.</hi>
                      </p>
                      <p>
-                        <pb n="49" facs="tcp:000971_0047_0FAE3A632C743408"/>Direction. Face to the <hi>Reer,</hi> and turn off to the right and left.</p>
+                        <pb n="49" facs="unknown:000971_0047_0FAE3A632C743408"/>Direction. Face to the <hi>Reer,</hi> and turn off to the right and left.</p>
                      <p>C. Wheel the Body inward to the <hi>Reer,</hi> from the Front.</p>
                      <p>Direction. Open from the midst of Files and Wheel inward.</p>
                      <p>C Wheel off the Body by division from the right <hi>Flank,</hi> into the <hi>Left.</hi>
@@ -1288,7 +1288,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                            </gap>.</hi>
                      </p>
                      <p>
-                        <pb n="50" facs="tcp:000971_0048_0FAE3A64AF775630"/>Direction. <hi>Front-half Files,</hi> face about; <hi>Front</hi> and <hi>Reer half Files,</hi> open from the midst to convenient distance, and Wheel inward to <hi>Front</hi> and <hi>Reer.</hi>
+                        <pb n="50" facs="unknown:000971_0048_0FAE3A64AF775630"/>Direction. <hi>Front-half Files,</hi> face about; <hi>Front</hi> and <hi>Reer half Files,</hi> open from the midst to convenient distance, and Wheel inward to <hi>Front</hi> and <hi>Reer.</hi>
                      </p>
                      <p>C. Wheel off your right and left <hi>Half-Ranks</hi> by division, into <hi>Front</hi> and <hi>Reer.</hi>
                      </p>
@@ -1306,7 +1306,7 @@ then if the Countermarch be to the right, Countermarch again to the right, so to
                            <desc>•</desc>
                         </gap>t to a convenient distance, and Wheel inward to both Flanks.</p>
                      <p>As for Reducement of every particular <hi>Wheeling,</hi> you may observe as before in <hi>Countermarches</hi>: unto what hand soever they Wheeled, Command them to Wheel
-<pb n="51" facs="tcp:000971_0049_0FAE3A64E1D53D58"/>
+<pb n="51" facs="unknown:000971_0049_0FAE3A64E1D53D58"/>
 to the contrary hand, and they will be Reduced: Or what part is Wheeled of division, Wheel inward again from that place.</p>
                   </div>
                   <div n="16" type="chapter">
@@ -1340,7 +1340,7 @@ to the contrary hand, and they will be Reduced: Or what part is Wheeled of divis
                            </list>
 about, Fire. Falling into the <hi>Front</hi> of their own divisions.</p>
                         <p n="2">
-                           <pb n="52" facs="tcp:000971_0050_0FAE3A65A1E5E6F8"/>2. By way of Introduction to the Reer twice over until they come down e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <pb n="52" facs="unknown:000971_0050_0FAE3A65A1E5E6F8"/>2. By way of Introduction to the Reer twice over until they come down e<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>en with the Reer.</p>
                         <p n="3">3. Fire to the right and left about to the <hi>Reer, Ranks</hi> drawn forth, and in again.</p>
@@ -1369,7 +1369,7 @@ about, Fire. Falling into the <hi>Front</hi> of their own divisions.</p>
                      <p>C. <hi>HAlf Files,</hi> double your Front to the left.</p>
                      <p>C. Double your <hi>Files</hi> to the right entire, advancing, every man placeing himself before his Leader.</p>
                      <p>
-                        <pb n="53" facs="tcp:000971_0051_0FAE3A6666BB40B0"/>C. <hi>Front Half-Files,</hi> double your Reer to the left.</p>
+                        <pb n="53" facs="unknown:000971_0051_0FAE3A6666BB40B0"/>C. <hi>Front Half-Files,</hi> double your Reer to the left.</p>
                      <p>C. Double your <hi>Files</hi> to the left entire advancing every man placeing himself be<g ref="char:EOLhyphen"/>fore his Leader.</p>
                      <p>C. <hi>Bringers up,</hi> double your Front to the right.</p>
                      <p>C. <hi>Files,</hi> double your depth to the right, every man falling behind his Bringer-up.</p>
@@ -1385,12 +1385,12 @@ about, Fire. Falling into the <hi>Front</hi> of their own divisions.</p>
                      </p>
                   </div>
                   <div n="18" type="chapter">
-                     <pb n="54" facs="tcp:000971_0052_0FAE3A6724EE8B48"/>
+                     <pb n="54" facs="unknown:000971_0052_0FAE3A6724EE8B48"/>
                      <head>CHAP. XVIII. The several duties belong<g ref="char:EOLhyphen"/>ing to a Foot Company.</head>
                      <div type="duties">
                         <p>A Private Souldier ought to be very Active, not slothful and idle, informing himself of his duty, learning from his Corporal, or other Officers; the true use and handling of his Arms, always keeping them neat and clean, and well fix<g ref="char:EOLhyphen"/>ed. Upon Beat of the Drum, he is to re<g ref="char:EOLhyphen"/>pair to his Colours, or Company: upon the <hi>March,</hi> he must observe his Leader, and his Right-Hand Man, that he may <hi>March</hi> streight in File, and even in Rank. In time of Exercise, he must be Silent, minding the words of Command and Di<g ref="char:EOLhyphen"/>rection, which are given forth by the Leader. He ought likewise to be well versed in all the ordinary words of Com<g ref="char:EOLhyphen"/>mand; and to mind the place he stands in, that he may the more readier move, whether it be to Face, Double, Counter<g ref="char:EOLhyphen"/>march, or Wheel.</p>
                         <p>To Conclude, a Private Souldier ought to avoid all Quarreling, Mutinies, Swear<g ref="char:EOLhyphen"/>ing, Cursing or Lying; also avoiding
-<pb n="55" facs="tcp:000971_0053_0FAE3A67E49E9E58"/>
+<pb n="55" facs="unknown:000971_0053_0FAE3A67E49E9E58"/>
 Drunkenness, and all manner of Gaming: he ought to be Loving and Cou<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
                            </gap>eous to all his Fellow-Souldiers</p>
@@ -1401,7 +1401,7 @@ Drunkenness, and all manner of Gaming: he ought to be Loving and Cou<gap reason=
                         <p>In time of engagement with an Enemy, he must Couragiously and wisely behave himself, &amp; encourage his Souldiers of hopes of Victory, Chearfully animating of his Souldiers to fall on. He is to take a Fatherly care of his Souldiers, timely providing <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>or
-<pb n="56" facs="tcp:000971_0054_0FAE3A68E022DE20"/>
+<pb n="56" facs="unknown:000971_0054_0FAE3A68E022DE20"/>
 the Maimed, Wounded and Sick, such helps and remedies as their present condi<g ref="char:EOLhyphen"/>tions requires. His care must be to execute Justice, appease Quarrels, punish Offend<g ref="char:EOLhyphen"/>ers; by doing whereof, he will main<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ain the Honour and Dignity of his place: and again, he must not be too rigid and ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1412,7 +1412,7 @@ the Maimed, Wounded and Sick, such helps and remedies as their present condi<g r
                         <head>Of a Lieutenant.</head>
                         <p>HE that is a <hi>Lieutenant</hi> to a Company, ought to be a good &amp; able Souldier, and well understand the duty of a Cap<g ref="char:EOLhyphen"/>tain, in respect he is Captain and Com<g ref="char:EOLhyphen"/>mander in Chief over them in his absence. In the absence of his Captain, he is to see all such orders as he hath received, duely executed: He is to teach and instruct the Souldiers in the use of their Arms, and to shew them their Postures. In time of Ex<g ref="char:EOLhyphen"/>ercise, he ought to be in the <hi>Reer,</hi> and to see all things there truly executed accord<g ref="char:EOLhyphen"/>ing to the Captains Commands</p>
                         <p>Briefly, He ought to know how far his power doth extend, either in the
-<pb n="57" facs="tcp:000971_0055_0FAE3A6960B07050"/>
+<pb n="57" facs="unknown:000971_0055_0FAE3A6960B07050"/>
 presence or absence of his Captain, always demeaning himself so that he may gain the love of his whole Company, by act<g ref="char:EOLhyphen"/>ing those things amongst them as may be just and honest.</p>
                      </div>
                      <div type="duties">
@@ -1424,7 +1424,7 @@ presence or absence of his Captain, always demeaning himself so that he may gain
                      <div type="duties">
                         <head>Of a Sargeant.</head>
                         <p>A Sargeant ought to be well skill'd in the Postures, and all Military Motions; whereby he may Correct the Errors of such as handle not their Arms in an handsome or serviceable way; and also helpful to his Captain, or other Superiour
-<pb n="58" facs="tcp:000971_0056_0FAE3A6CE4D20298"/>
+<pb n="58" facs="unknown:000971_0056_0FAE3A6CE4D20298"/>
 Officers in time o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap> Exercise: His duty is to draw forth the <hi>Files</hi> according to such depths as shall be appointed him by his Cap<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1450,7 +1450,7 @@ Officers in time o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            </gap>ry: when the Captain of the Watch goes the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>st Round, he shall with his Sword drawn against his breast give it
-<pb n="59" facs="tcp:000971_0057_0FAE3A6E18EF1268"/>
+<pb n="59" facs="unknown:000971_0057_0FAE3A6E18EF1268"/>
 him; and receive such orders from him as he shall Command him: but afterwards when the Round shall come again, he shall cause the Rounders (or Gentlemen) with his Sword drawn, to give the word to him before they pass: He ought never to go alone (being called by the Sentinel) but to have a Guard of three or four Musketiers with him, selected out of his <hi>Corps of Guard.</hi> He must advice his Sen<g ref="char:EOLhyphen"/>tinels how to demean themselves upon a discovery of an Enemy, either to give an Alarum, or else to give notice without making a noise. He is likewise to have an eye to their Lives and Manners, and to take care his own carriage be Sober, Wise and discret, for the avoiding ill example unto others.</p>
                      </div>
                      <div type="duties">
@@ -1458,7 +1458,7 @@ him; and receive such orders from him as he shall Command him: but afterwards wh
                         <p>HIS carriage ought to be very just and honest; his chiefest duty is to keep the Muster Roll: he is many times in<g ref="char:EOLhyphen"/>trusted to receive the Companies Money, and pay such Monies as shall be ordered him by his Captain, giving a true account to his Captain of all such Monies he hath either received or paid forth.</p>
                      </div>
                      <div type="duties">
-                        <pb n="60" facs="tcp:000971_0058_0FAE3A6FA8C057B0"/>
+                        <pb n="60" facs="unknown:000971_0058_0FAE3A6FA8C057B0"/>
                         <head>Of the Drummers.</head>
                         <p>EVery Captain ought to have two good Drums and Drummers, that knows how to Beat all the several Points of War. It is likewise Expedient that they should be good Linguists, in respect sometimes they may be sent to an Enemy for the Ransoming of Prisoners.</p>
                      </div>
@@ -1466,7 +1466,7 @@ him; and receive such orders from him as he shall Command him: but afterwards wh
                   <div n="19" type="chapter">
                      <head>CHAP. XIX. Of Military Watches.</head>
                      <p>THE <hi>Corporals</hi> according to order giv<g ref="char:EOLhyphen"/>en them, are to dispose of the seve<g ref="char:EOLhyphen"/>ral <hi>Sentinels,</hi> and to have an especial care that they keep their <hi>Muskets</hi> Prim'd and Laden; which must often be observed by visiting of the several <hi>Sentinels,</hi> to see that all things be in due order &amp; with silence; to the end that the <hi>Sentinels</hi> may always be heard, as often as occasion may offer. The Office of every <hi>Sentinel</hi> after he is placed upon his duty, is to enquire of every Passenger or others that shall but stir, <hi>Who Comes there?</hi> Yea, though
-<pb n="61" facs="tcp:000971_0059_0FAE3A70377E40C8"/>
+<pb n="61" facs="unknown:000971_0059_0FAE3A70377E40C8"/>
 it be the <hi>Captain</hi> himself. The Rounds are made with light, so soon as a <hi>Sentinel</hi> perceives any, he is to cry with a loud voice, so that he may be heard by the next <hi>Corps of Guard: Who comes there?</hi> He who goes the Round should Answer,</p>
                      <p>
                         <hi>The Round,</hi> Or, <hi>The Round Major,</hi> Or, <hi>The Grand Round.</hi>
@@ -1488,7 +1488,7 @@ it be the <hi>Captain</hi> himself. The Rounds are made with light, so soon as a
                      <p>He is to say, <hi>Let him who has the word, advance.</hi>
                      </p>
                      <p>Then the Round Advances and gives the Word into the Corporals Ear so low that he cannot be heard by any body else. But if one should give any other
-<pb n="62" facs="tcp:000971_0060_0FAE3A70EC1581D8"/>
+<pb n="62" facs="unknown:000971_0060_0FAE3A70EC1581D8"/>
 Word than what is true, he ought to be stopt, and the Officer of the Guard is to be acquainted wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>h it<g ref="char:punc">▪</g> who either keeps him all night a Prisoner, or disposes of him as he thinks proper.</p>
@@ -1501,7 +1501,7 @@ Word than what is true, he ought to be stopt, and the Officer of the Guard is to
                      <p>WHen any <hi>Commander</hi> or <hi>Souldier</hi> of <hi>Worth,</hi> shall be Deceased, a private <hi>Cap<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ain</hi> that would shew respect &amp; honour, by his Companies attending the <hi>Corps</hi> to the place of <hi>Burial,</hi> must order his Souldiers after this manner. They being Summon'd by Beat of the <hi>Drum</hi> to meet at their usual
-<pb n="63" facs="tcp:000971_0061_0FAE3A71AAAB4F30"/>
+<pb n="63" facs="unknown:000971_0061_0FAE3A71AAAB4F30"/>
 place of Randezvouze, they may be drawn up acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ding to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1527,7 +1527,7 @@ place of Randezvouze, they may be drawn up acco<gap reason="illegible" resp="#PD
                         </gap>orming to the Funeral Posture. The <hi>Drums</hi> being covered with <hi>Black,</hi> Beating the <hi>Funeral March.</hi> When the <hi>Body</hi> is laid in the <hi>Grave,</hi> they upon warning of the <hi>Drum</hi> (being all ready and presented) give th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ee <hi>Volleyes</hi> of <hi>Shot</hi> altogether; at which time
-<pb n="64" facs="tcp:000971_0062_0FAE3A727458A280"/>
+<pb n="64" facs="unknown:000971_0062_0FAE3A727458A280"/>
 the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
                            </gap>
@@ -1559,7 +1559,7 @@ the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegib
                      <l>
                         <hi>Rank</hi> keeps to <hi>Rank,</hi> &amp; <hi>File</hi> to <hi>File</hi>: as well</l>
                      <l>
-                        <pb n="65" facs="tcp:000971_0063_0FAE3A7320ADC8A0"/>When they do <hi>Ope,</hi> Close, Move; as when they stand,</l>
+                        <pb n="65" facs="unknown:000971_0063_0FAE3A7320ADC8A0"/>When they do <hi>Ope,</hi> Close, Move; as when they stand,</l>
                      <l>And save their <hi>Evening, Straightning, Post-Command.</hi>
                      </l>
                      <l>
@@ -1606,7 +1606,7 @@ the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegib
                            <desc>〈◊〉</desc>
                         </gap> what I have not <hi>Room</hi> to write.</l>
                      <l>
-                        <pb n="66" facs="tcp:000971_0064_0FAE3A73F7481980"/>LET them that undertake to Praise a Book,</l>
+                        <pb n="66" facs="unknown:000971_0064_0FAE3A73F7481980"/>LET them that undertake to Praise a Book,</l>
                      <l>Not on the Title, but the matter look.</l>
                      <l>Of Cock-Brain'd <hi>Milit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -1628,7 +1628,7 @@ the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegib
             </body>
             <back>
                <div type="table_of_contents">
-                  <pb n="67" facs="tcp:000971_0065_0FAE3A7808784620"/>
+                  <pb n="67" facs="unknown:000971_0065_0FAE3A7808784620"/>
                   <head>THE Contents.</head>
                   <list>
                      <item>THE Introduction. <hi>Page. 7</hi>
@@ -1656,7 +1656,7 @@ the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegib
                      <item>A divisional doubling to the Front by Wheeling. <hi>Page. 38</hi>
                      </item>
                      <item>
-                        <pb n="68" facs="tcp:000971_0066_0FAE3A795FBED0D8"/>Of Files Ranking, or Files Fileing <hi>Page. 39</hi>
+                        <pb n="68" facs="unknown:000971_0066_0FAE3A795FBED0D8"/>Of Files Ranking, or Files Fileing <hi>Page. 39</hi>
                      </item>
                      <item>Of Countermarches <hi>Page. 41</hi>
                      </item>
@@ -1677,7 +1677,7 @@ the Ensign unfurl his Colours, and the Body upon the <hi>Mar<gap reason="illegib
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:000971_0067_0FAE3A7B10EB6FA8"/>
+                  <pb facs="unknown:000971_0067_0FAE3A7B10EB6FA8"/>
                   <p>The Military LAWS: Passed by the Great and General Court or Assembly of the Province of the <hi>Massachusetts-Bay,</hi> in <hi>New-England.</hi>
                   </p>
                   <p n="1">
@@ -1693,8 +1693,8 @@ the 8<hi>th.</hi> 1693.</p>
             </front>
             <body>
                <div type="act">
-                  <pb facs="tcp:000971_0068_0FAE3A7B62A0F5B0"/>
-                  <pb n="71" facs="tcp:000971_0069_0FAE3A7C264F5B98"/>
+                  <pb facs="unknown:000971_0068_0FAE3A7B62A0F5B0"/>
+                  <pb n="71" facs="unknown:000971_0069_0FAE3A7C264F5B98"/>
                   <head>Military LAW: An Act for Regulating of the Militia.</head>
                   <p>
                      <hi>WHEREAS for the Honour and Service of Their Maje<g ref="char:EOLhyphen"/>sties, and for the Security of this Their Province against any Violence or Invasion whatever: It is neces<g ref="char:EOLhyphen"/>sary that du<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1707,18 +1707,18 @@ the 8<hi>th.</hi> 1693.</p>
                      <hi>Be it therefore Enacted by His Ex<g ref="char:EOLhyphen"/>cellency the Governour, Council and Representatives in General Court As<g ref="char:EOLhyphen"/>sembled, and it is Ordained and Enacted by the Authority of the same.</hi>
                   </p>
                   <p n="1">1. THAT all Male Persons from <hi>Six<g ref="char:EOLhyphen"/>teen</hi> years of Age to <hi>Sixty,</hi> (other than
-<pb n="72" facs="tcp:000971_0070_0FAE3A7CE5EAA270"/>
+<pb n="72" facs="unknown:000971_0070_0FAE3A7CE5EAA270"/>
 such as are herein after excepted) shall bear Arms, and duely attend all Musters and Military Exercises of the respective Troops and Companies where they are listed or belong, allowing three Months time to every Son next after his coming to <hi>Sixteen</hi> years of Age; and every Servant so long after his time is out<g ref="char:punc">▪</g> to provide themselves with Arms &amp; Ammunition <hi>&amp;c.</hi>
                   </p>
                   <p n="2">2. AND the Clerk of each Troop and Company once a Quarter yearly, shall take an Exact List of all Persons living within the Precincts of such Troop o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Company, and present the same to the Captain or Chief Officer, on pain of forfeiting <hi>Forty Shillings</hi> for each default, to be paid to the Captain or Chief Officer to the use of the Company. And in case of non payment, to be levied by distress and sale of the of<g ref="char:EOLhyphen"/>fenders goods, by vertue of a Warrant from the Captain or Chief Officer, who is here<g ref="char:EOLhyphen"/>by Impowred to grant the same.</p>
                   <p n="3">3. THAT every Person listed in any Troop or Company shall so continue and attend all duty in such Troop or Company, or otherwise suffer the penalty by Law provided, until orderly dismist or removed out of the Town or Precinct; and in case
-<pb n="73" facs="tcp:000971_0071_0FAE3A7DA372D828"/>
+<pb n="73" facs="unknown:000971_0071_0FAE3A7DA372D828"/>
 of removal into the Precinct of another Company in the same Town, to produce a Certificate under the hand of the Captain or Chief Officer of the Precinct whereto he is removed, that he is listed there.</p>
                   <p n="4">4. IF any Person liable to be listed as aforesaid, do exempt himself by Shifting from house to house, or place to place, to avoid being so listed; he shall pay as a Fine for every such offence, to the use of the Company to which he belongs, <hi>Ten Shillings,</hi> being Convicted before any Justice of the Peace of the County.</p>
                   <p n="5">5. THAT every listed Souldier and other Housholder (except Troopers) shall be always provided with a well fixt Firelock Musket, of Musket or Bastard Musket bore; the Barrel not less than three foot and a half long, or other good Fire Arms, to the Satisfaction of the Commission Offi<g ref="char:EOLhyphen"/>cers of the Company, a Snapsack, a Coller with Twelve Bandeleers or Cartouch box, one Pound of good Powder, twenty Bullets fit for his Gun, and twelve Flints, a good Sword or Cutlash, a Worm and Priming-wire fit for his Gun; on penalty of <hi>Six Shillings</hi> for want of such Arms as is hereby required, and <hi>Two Shillings</hi> for each other
-<pb n="74" facs="tcp:000971_0072_0FAE3A7E9658F280"/>
+<pb n="74" facs="unknown:000971_0072_0FAE3A7E9658F280"/>
 defect, and the like Sum for every four weeks he shall remain unprovided; the Fine to be paid by Parents for the Sons under Age, and under their Command; and by Masters or heads o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Families, for their Servants, other than Servants upon Wages.</p>
@@ -1763,19 +1763,19 @@ defect, and the like Sum for every four weeks he shall remain unprovided; the Fi
                         <desc>•</desc>
                      </gap> 
                      <hi>Five Pounds</hi>:
-<pb n="75" facs="tcp:000971_0073_0FAE3A81C79E2A30"/>
+<pb n="75" facs="unknown:000971_0073_0FAE3A81C79E2A30"/>
 And for non appearance at the time and place appointed for Exercise, every listed Trooper for each days neglect shall pay <hi>Ten Shillings</hi> Fine.</p>
                   <p n="7">7. THAT there may be two Troops in a Regiment, each of which Troops shall not exceed Sixty men with Officers.</p>
                   <p n="8">8. THAT Regimental Musters shall be but once in three years, (except in <hi>Boston</hi>) And every Captain or Chief Officer of any Company or Troop in any Regiment, shall be obliged on penalty of <hi>Five Pounds,</hi> to draw forth his Company or Troop, or cause them to be drawn forth four days Annually, and no more, to Exercise them in Motions, the use of Arms, and Shooting at Marks, or other Military Exercises, which every person liable to Train, having been duely warned, and not appearing and at<g ref="char:EOLhyphen"/>tending the same, shall for each days neg<g ref="char:EOLhyphen"/>lect pay a Fine of <hi>Five Shillings.</hi>
                   </p>
                   <p n="9">9. THAT the Commission Officers of any Company or Troop, or the major part of them, may order the correcting and punishing disorders and contempt on a Training Day, or on a Watch, the punish<g ref="char:EOLhyphen"/>ment not being greater than laying Neck
-<pb n="76" facs="tcp:000971_0074_0FAE3A8326E317E8"/>
+<pb n="76" facs="unknown:000971_0074_0FAE3A8326E317E8"/>
 and Heels, Riding the Wooden Horse, or <hi>Ten Shillings</hi> fine.</p>
                   <p n="10">10. THAT there be Military Watches appointed and kept in every Town, at such times, in such places, and in such numbers, and under such Regulations as the chief Military Officers of each Town shall ap<g ref="char:EOLhyphen"/>point, or as they may receive Orders from the Chief Officer of the Regiment: And that all persons able of Body, or that are of Estate (and not exempted by Law) shall by themselves or some meet person in their stead, to the acceptance of the Commander of the Watch, attend the same, on penalty of <hi>Five Shillings</hi> for each de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ect; there having been due warning given.</p>
                   <p n="11">11. EVERY Souldier or other person liable by Law, refusing or neglecting to attend Military Exercises, on Training days; or Military Watches, that shall not pay, or have no Estate to be found whereon to levy the fine, it shall be in the power of the Captain, or Chief Officers of such Com<g ref="char:EOLhyphen"/>pany on the next Training day after such neglect (he not having satisfyed the Clerk) to punish him for such offence, by laying Neck and Heels, or Riding the Wooden
-<pb n="77" facs="tcp:000971_0075_0FAE3A846E035F88"/>
+<pb n="77" facs="unknown:000971_0075_0FAE3A846E035F88"/>
 Horse, not exceeding one Hours time: And if such Delinquent shall absent him<g ref="char:EOLhyphen"/>self the second Training day, without give<g ref="char:EOLhyphen"/>ing sufficient reason to the Captain, or Chief Officer for the same; it shall be in the power of the Chief Officer of the Compa<g ref="char:EOLhyphen"/>ny to direct a Warrant to the Constable of the Town, requiring him to apprehend such Delinquent, and bring him into the Field, that he may be punisht according as by this Law is provided: And all Consta<g ref="char:EOLhyphen"/>bles are hereby Required to Execute such Warrants accordingly.</p>
                   <p n="12">12. THAT the Persons hereafter named be Exempted from all Trainings; <hi>Viz. The Members of the Council the Representatives,</hi> for the time being, <hi>the Secretary, Justices of the Peace, Praes<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1784,7 +1784,7 @@ Horse, not exceeding one Hours time: And if such Delinquent shall absent him<g r
                         </gap>cians,</hi> or <hi>Chyrurg<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>ns,</hi> and pro<g ref="char:EOLhyphen"/>fest <hi>School Masters,</hi> all such as have had Commissions, and Served as Field Officers, or <hi>Captains, Lieutenants,</hi> or <hi>Ensigns, Coroners, Treasurers, Attourney General, Deputy Sheriffs, Clerks of Courts, Constables,</hi> constant <hi>Ferry<g ref="char:EOLhyphen"/>men,</hi> and one <hi>Miller</hi> to each <hi>Grist-Mill: Officers</hi> imployed in and about Their
-<pb n="78" facs="tcp:000971_0076_0FAE3A852D8EA4B8"/>
+<pb n="78" facs="unknown:000971_0076_0FAE3A852D8EA4B8"/>
 Majesties <hi>Revenues,</hi> all <hi>Masters of Vessels</hi> of Thirty Tons and upwards, usually im<g ref="char:EOLhyphen"/>ployed beyond Sea, and constant <hi>Herdsmen, Lame Persons</hi> or otherwise disabled in Body (producing Certificate thereof from two able <hi>Chyrurgeons) Indians</hi> and <hi>Negroes.</hi>
                   </p>
                   <p n="13">13. THAT the Persons hereafter named be and hereby are Exempted from Military Watches and Wardings, <hi>viz.</hi> The <hi>Members of the Council, Secretary, Representatives</hi> for the time being, <hi>Praesident, Fellows, Students of Harvard Colledge,</hi> and the Gentlemen belonging to the Troop of the <hi>Governours Guard, Ministers</hi> and <hi>Elders of Churches,</hi> al<g ref="char:EOLhyphen"/>lowed <hi>Physician<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1794,7 +1794,7 @@ Majesties <hi>Revenues,</hi> all <hi>Masters of Vessels</hi> of Thirty Tons and 
                   </p>
                   <p n="14">14. THAT the Captain and Commissi<g ref="char:EOLhyphen"/>on Officers of each Company or Troop, shall and hereby are fully impowred to nominate &amp; appoint meet persons to Serve as Serjeants and Corporals in the respective Companies or Troops, and displace them, and appoint others in their room, as they shall see meet.</p>
                   <p n="15">15. THAT twice every year or oftner if required, every Captain or Chief Officer
-<pb n="79" facs="tcp:000971_0077_0FAE3A85FB109B00"/>
+<pb n="79" facs="unknown:000971_0077_0FAE3A85FB109B00"/>
 of each Company or Troop shall give or<g ref="char:EOLhyphen"/>der for a diligent enquiry into the state of his Company, and for taking an exact list of the names of his Souldiers, and Inhabi<g ref="char:EOLhyphen"/>tants within the Limits of his Company, &amp; of the defects of Arms or otherwise, and names of the defective persons, that they may be prosecuted as the Law hath provi<g ref="char:EOLhyphen"/>ded, and such care may be taken as is pro<g ref="char:EOLhyphen"/>per to remedy the same.</p>
                   <p n="16">16. THAT if any person who is by Law obliged to provide Arms &amp; Ammunition, cannot purchase the same by such means as he hath, if he bring to the Clerk of the Company, Corn or other Merchantable Provision, or vendible Goods, so much as by Apprizement of the Clerk &amp; two other persons mutually chosen, shall be judged of greater value by one fifth part than such Arms or Ammunition is of: he thereupon shall be excu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1805,14 +1805,14 @@ of each Company or Troop shall give or<g ref="char:EOLhyphen"/>der for a diligen
                      </gap>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>dance upon all occasions as other Souldiers, until he be supplied, and at such times shall perform any proper Ser<g ref="char:EOLhyphen"/>vice he may be put upon by the Captain of
-<pb n="80" facs="tcp:000971_0078_0FAE3A86A856BC88"/>
+<pb n="80" facs="unknown:000971_0078_0FAE3A86A856BC88"/>
 Chief Officer of the Company he belongs to; but if the person be judged unable to buy Arms, or to lay down the value propo<g ref="char:EOLhyphen"/>sed, if he be a single man, he shall be put out to Service by the two next Justices of Peace to earn wherewith to buy Arms and Ammunition; if such person have a Family and be judged unable<g ref="char:punc">▪</g> by the Captain and major part of the Select men to lay down such value for the end aforesaid, then he shall be provided for out of the Town Stock, or by Arms procured at the Towns charge, until such time as he be judged able to pro<g ref="char:EOLhyphen"/>vide for himself, &amp; such Arms to be under the care of the chief Military Officer &amp; the Select-men of the Town.</p>
                   <p n="17">17. THAT Drums, Drummers, Trum<g ref="char:EOLhyphen"/>pets, Trumpeters, Colours &amp; Banners be by the Commission Officers of each Troop or Company provided at the charge of the respective Companies &amp; Troops where there are not already provided, &amp; the fines will not reach to procure the same, &amp; that such as have been imployed as Drummers or Trump<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ters, or are fit and capable there<g ref="char:EOLhyphen"/>of, being appointed unto such Service by the Chief Officer of any Company or Troop, shall attend the Service, on penalty of <hi>Forty Shillings</hi> fine, and every Drummer for a years Service shall have <hi>Twenty Shillings</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> he find
-<pb n="81" facs="tcp:000971_0079_0FAE3A876A374040"/>
+<pb n="81" facs="unknown:000971_0079_0FAE3A876A374040"/>
 his own Drum, &amp; <hi>Ten Shillings</hi> if the Cap<g ref="char:EOLhyphen"/>tain finds the Drum; &amp; a Trumpeter <hi>Forty Shillings</hi> a year, if he find his own Trumpet, and <hi>Twenty Shillings,</hi> if the Captain finds it.</p>
                   <p n="18">18. THAT such meet person as by the Commission Officers of any Company or Troop shall be appointed Clerk, and shall refuse to serve, shall pay <hi>Forty Shillings</hi> fine, and another be chosen in his room, and so until one do accept: which person shall be under Oath for the faithful discharge of his Office, to be Administred unto him by a Justice of Peace in the same County, in the words following.</p>
                   <p>
@@ -1821,7 +1821,7 @@ his own Drum, &amp; <hi>Ten Shillings</hi> if the Cap<g ref="char:EOLhyphen"/>ta
                         <desc>•</desc>
                      </gap>d, his own part being deducted.</p>
                   <p n="19">
-                     <pb n="82" facs="tcp:000971_0080_0FAE3A8865446BA8"/>19. THE Chief Military Officer of each Regiment as often as he shall see cause, shall require the Captain or Chief Officer of each Company in his Regiment to meet at such time and place as he shall appoint, and then with them to confer and give in charge such Orders as shall by them, or major part of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="82" facs="unknown:000971_0080_0FAE3A8865446BA8"/>19. THE Chief Military Officer of each Regiment as often as he shall see cause, shall require the Captain or Chief Officer of each Company in his Regiment to meet at such time and place as he shall appoint, and then with them to confer and give in charge such Orders as shall by them, or major part of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>m be judged meet, for the better ordering and settling their seve<g ref="char:EOLhyphen"/>ral Companies, and for the better promo<g ref="char:EOLhyphen"/>ting of Military Discipline amongst them. And the Chief Officer is hereby impowred by his Warrant directed to any Clerk or Of<g ref="char:EOLhyphen"/>ficer of his Regiment to summon or cause to be brought before them any Offender against the Laws Military, and according to Law to hear and determine all matters proper for their Cognizance, and to give sentence, and to grant Mittimus or War<g ref="char:EOLhyphen"/>rants for Distraint to the Clerk of the Company where the Offence is committed, for ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1831,12 +1831,12 @@ his own Drum, &amp; <hi>Ten Shillings</hi> if the Cap<g ref="char:EOLhyphen"/>ta
                            <desc>•</desc>
                         </gap>ty Shillings,</hi> he shall have <hi>Ten Shillings</hi> out of the same for his pains and trouble therein; and no more.</p>
                   <p n="20">20. THAT there be a stock of Pow<g ref="char:EOLhyphen"/>der and Ammunition in each Town pro<g ref="char:EOLhyphen"/>vided, and from time to time as there is need, be renewed by the Select-men; which shall be a barrel of good Powder, two
-<pb n="83" facs="tcp:000971_0081_0FAE3A8BFB4B0BF0"/>
+<pb n="83" facs="unknown:000971_0081_0FAE3A8BFB4B0BF0"/>
 hundred weight of Bullets, and three hun<g ref="char:EOLhyphen"/>dred Flints for every sixty listed Souldiers, and after that proportion for the listed Souldiers of each Town, whether more or less: Also that the Select-men procure such a number of Arms, &amp; so much Ammuniti<g ref="char:EOLhyphen"/>on as shall be made appear by the Chief Commission Officers of each Company in the several Towns to be needful for the supply of such Poor as by Law they are to provide for: And such Town as cannot make it appear to the chief Commander of the Regiment that they are thus provided at or before the first of <hi>May</hi> next, shall pay <hi>Five Pounds</hi> fine, which shall be distrained by Warrant from said Officer directed unto the Constable upon the Select men of the Town or any of them, and disposed of for the use of said Town towards the supply of such Stock; and the like Sum for every three months they shall remain so un<g ref="char:EOLhyphen"/>provided.</p>
                   <p n="21">21. AND the Select-men where there is not a sufficient Stock of Powder, Arms &amp; Ammunition, and in such Towns where there is need of Watch houses, Firing and Candl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s for their Watches; in such case the Select men for so much as is wanting are to procure or satisfy what is required or needed as before, &amp; shall make provision
-<pb n="84" facs="tcp:000971_0082_0FAE3A8D4F697AF8"/>
+<pb n="84" facs="unknown:000971_0082_0FAE3A8D4F697AF8"/>
 for the same by a Rate equally and justly laid upon the Inhabitants &amp; Estate in such Towns, and such Rate signed &amp; committed by them to the Constables to collect, who shall, and hereby are required &amp; authoriz<g ref="char:EOLhyphen"/>ed to collect the same; and for non pay<g ref="char:EOLhyphen"/>ment to distrain as for other Rates, and the money or pay collected to be brought in to the chief Military Officers and Select-men of the Town, to be by them improved for the ends aforesaid. And the Select men or so many of them as shall neglect their duty herein, shall pay <hi>Twenty Shillings</hi> fine, to be paid to the Captain for the use of the Company, being convict before two Justi<g ref="char:EOLhyphen"/>ces of the Peace, who are hereby impow<g ref="char:EOLhyphen"/>red to convent the party, and to hear and determine the same, and if need be, to ap<g ref="char:EOLhyphen"/>point other meet persons in such Towns under the like penalties to perform said Service.</p>
                   <p n="22">22. THAT no Clerk <hi>Ex Offi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1845,15 +1845,15 @@ for the same by a Rate equally and justly laid upon the Inhabitants &amp; Estate
                      </gap>ine; and every Clerk that neglects or re<g ref="char:EOLhyphen"/>fus<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s to account or make payment, as by this Law is provided, he by a Warrant from the chief Officer of the Company directed
-<pb n="85" facs="tcp:000971_0083_0FAE3A8EA0C80760"/>
+<pb n="85" facs="unknown:000971_0083_0FAE3A8EA0C80760"/>
 to the Constable, may be distrained on for so much as he hath or should have collect<g ref="char:EOLhyphen"/>ed or distrained for.</p>
                   <p n="23">23. THAT all Officers yield Obedience to the Warrants or Commands of their Superiour Officers on penalty of <hi>Five Pounds</hi>; to be heard and determined at the next meeting of the chief Officers and Captains of the Regiment; and the fine to be taken by distress and sale of the Offenders goods, (returning the over plus if any be) by Warrant from the chief Officer of the Re<g ref="char:EOLhyphen"/>giment, directed to the Clerk of the Com<g ref="char:EOLhyphen"/>pany to which such offender belongs, and to be improved to the use and benefit of such Company as the Officers so met shall agree, their Expences being first defray'd out of the same.</p>
                   <p n="24">24. THAT an Alarm at the Castle up<g ref="char:EOLhyphen"/>on Castle Island near <hi>Boston,</hi> being made upon such causes as are agreeable to In<g ref="char:EOLhyphen"/>structions to be given by the Governour to the Captain of the Castle, shall be by put<g ref="char:EOLhyphen"/>ting out two Flaggs, and firing of two Guns towards the Town; at which time there shall with all possible speed such numbers be sent down for their relief, as the Governour and Captain General, or such person as shall be Commander in Chief in his absence, shall think necessary.
-<pb n="86" facs="tcp:000971_0084_0FAE3A8EE97B1460"/>
+<pb n="86" facs="unknown:000971_0084_0FAE3A8EE97B1460"/>
 At any other place an Alarm may be made by firing three Guns one after ano<g ref="char:EOLhyphen"/>ther, or by firing a Beacon, their Drums beating an Alarm, all persons being called upon to Arm: Upon which all the Tra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n<g ref="char:EOLhyphen"/>ed Souldiers, and others capable to bear Arms that are then Resident in any Town, shall forthwith appear compleat with their Arms and Ammunition according to Law, at the usual place of Rendezvouz, or where the Chief Officers shall appoint; there to attend such Commands as shall be given for Their Majesties Service; and that on the penalty of <hi>Five Pounds</hi> fine, or three months Imprisonment: The Members of the Council, Justices and Sheriffs to attend upon the Governour, if at or near <hi>Boston,</hi> and in other places, to appear and advise with the Chief Military Officers of the Town, and to be assisting in Their Maje<g ref="char:EOLhyphen"/>sties Service according to their Quality; and such Alarms shall at all times be carri<g ref="char:EOLunhyphen"/>ed on from Neighbourhood to Neighbour<g ref="char:EOLhyphen"/>hood, and from Town to Town through<g ref="char:EOLhyphen"/>out the Province, and from such Town where the Alarm is made, there shall be forthwith dispatch'd one or more Horse men to signifie the occasion thereof to the Justice of Peace, Chief Military Officer or Constable of the next Town or Towns,
-<pb n="87" facs="tcp:000971_0085_0FAE3A8FA402C7D0"/>
+<pb n="87" facs="unknown:000971_0085_0FAE3A8FA402C7D0"/>
 which all persons are to take notice of and attend as is before directed: And if the Alarm<g ref="char:punc">▪</g> be made either from a Sea port Town, or other Town that lyes a Frontier to, or in great danger of the Enemy; the Captain or Captains of the Adjacent Towns shall forthwith go with or send such relief as they shall judge meet for the offence of the Enemy, or de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ence of them<g ref="char:EOLhyphen"/>selves and Neighbours, but so as to be ob<g ref="char:EOLhyphen"/>servant to any Commands or Orders they may receive from their Superiour Officers: And if any person shall wilfully make a false Alarm, he shall be fined to Their Majesties <hi>Twenty Pounds</hi> for support of the Government, or suffer six months Impri<g ref="char:EOLhyphen"/>sonment.</p>
@@ -1862,7 +1862,7 @@ which all persons are to take notice of and attend as is before directed: And if
                      </gap> (other than the Publick Licen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ed Houses) under the penalty of <hi>One hundred Pounds</hi>; to be recovered by Action, Bill, Plaint or Information, in any Court of Record; one half to Their Majesties, for the sup<g ref="char:EOLhyphen"/>port of the Government; the other half part to the party grieved that shall inform and sue for the same. And every such In<g ref="char:EOLhyphen"/>habitant may refuse to Quarter any
-<pb n="88" facs="tcp:000971_0086_0FAE3A9076FD58C8"/>
+<pb n="88" facs="unknown:000971_0086_0FAE3A9076FD58C8"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> or Seaman notwithstanding any order whatsoever.</p>
@@ -1870,7 +1870,7 @@ which all persons are to take notice of and attend as is before directed: And if
                   <p n="27">27. ALL Fines, Penalties &amp; Forfeitures arising by Virtue of this Act or any breach thereof (not otherwise disposed of there<g ref="char:EOLhyphen"/>in) shall be for the use of the Regiment, Company, or Troop respectively: <hi>That is to say,</hi> for procuring and repairing Drums, Trumpets, Colours, Banners, Halberts, paying of Drummers and Trumpeters, or other charge of said Company; and the over plus (if any be) to be laid out in Arms &amp; Ammunition for a Town Stock, and be recovered by Action, Bill, Plaint, or Information in any of Their Majesties Courts of Record.</p>
                </div>
                <div type="act">
-                  <pb n="89" facs="tcp:000971_0087_0FAE3A91214889D0"/>
+                  <pb n="89" facs="unknown:000971_0087_0FAE3A91214889D0"/>
                   <head>An Act in Addition to the Act, For Regula<g ref="char:EOLhyphen"/>ting the Militia.</head>
                   <p>
                      <hi>WHEREAS in and by the Act Entituled, An Act,</hi> For Regulating the Mili<g ref="char:EOLhyphen"/>tia, <hi>amongst other things therein contained: It is Enacted, That Drums, Drummers, Trumpets, Trumpeters, Colours and Banners be by the Commission Officers of each Troop or Company, provided at the Charge of the res<g ref="char:EOLhyphen"/>pective Companies and Troops where they are not already provided, and the Fines will not reach to procure the same. But no direction being gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1881,18 +1881,18 @@ which all persons are to take notice of and attend as is before directed: And if
                      <hi>Be it therefore Enacted by His Ex<g ref="char:EOLhyphen"/>cellency the Governour, Council and Representatives in General Court As<g ref="char:EOLhyphen"/>sembled, and by the Authority of the same,</hi> That when and so often as the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ines arising in any Military Company or Troop shall not be sufficient to answer the Charge of providing suitable Drums, Trumpets, Colours and Banners, and the support of Drummers, or Trumpeters.
-<pb n="90" facs="tcp:000971_0088_0FAE3A9225A94028"/>
+<pb n="90" facs="unknown:000971_0088_0FAE3A9225A94028"/>
 The Commission Officers of such Com<g ref="char:EOLhyphen"/>pany or Troop respectively are hereby Authorized and Impowred to Assess so much as shall be wan<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ing and necessary for that use and occasion, upon their Company or Troop; and to proportion the same in the most equal manner they may, upon all the persons Entred in the Roll of such Company or Troop, and liable to attend any Military Duty in the same, having due regard unto persons ability for Estate and other Cir<g ref="char:EOLhyphen"/>cumstances. And where there be Sons and Servants, their Parents or Masters to pay for them if they cannot do it them<g ref="char:EOLhyphen"/>selves. And the Assessment so made being Signed by the Commission Officers, shall be committed unto the Clerk of such Company or Troop, together with a Warrant from the Chief Officer of the same, requiring said Clerk to Collect and pay in the same unto himself, to be im<g ref="char:EOLhyphen"/>ployed and disposed to the use aforesaid: And to make distress of all persons that shall neglect or refuse to pay their pro<g ref="char:EOLhyphen"/>portion thereof. And such Clerk is here<g ref="char:EOLhyphen"/>by Impowred and Required to execute such Warrant accordingly, and to pay in said Monies unto his Chief Officer. And if any fail in their betrustment and
-<pb n="91" facs="tcp:000971_0089_0FAE3A92A0F14DC8"/>
+<pb n="91" facs="unknown:000971_0089_0FAE3A92A0F14DC8"/>
 duty aforesaid, they shall be liable to give account to their Superiour Officers from time to time.</p>
                </div>
                <div type="act">
                   <head>An Act for putting the Militia of this Province into a readiness for de<g ref="char:EOLhyphen"/>fence of the same.</head>
                   <p>
                      <hi>WHEREAS by the Law of this Pro<g ref="char:EOLhyphen"/>vince, it is already</hi> Provided, <hi>That in case of Alarms made either from a Sea<g ref="char:EOLhyphen"/>port Town, or other Town lying Frontier to or in danger of an Enemy, the Captain or Captains of the adjacent Towns shall forth<g ref="char:EOLhyphen"/>with go or send such relief as they shall judge meet for the Offence of the Enemy, and De<g ref="char:EOLhyphen"/>fence of themselves,</hi> &amp;c. <hi>But Forasmuch as the Occasion may be such and so sudden, as it may be necessary to call together, Arm, Array and put into a posture for War the whole Mi<g ref="char:EOLhyphen"/>litia and Forces of one or more Regiments for the Defence of the Province, and His Majesties Subjects therein, in case of Invasion or near approach of an Enemy, before the notice there<g ref="char:EOLhyphen"/>of
-<pb n="92" facs="tcp:000971_0090_0FAE3A98E740FEF8"/>
+<pb n="92" facs="unknown:000971_0090_0FAE3A98E740FEF8"/>
 can reach the Captain General or Commander in Chief, to have Directions or Orders from him for the same.</hi>
                   </p>
                   <p>
@@ -1907,7 +1907,7 @@ can reach the Captain General or Commander in Chief, to have Directions or Order
                      </gap>mpt or enterprize the de<g ref="char:EOLhyphen"/>struction, invasion, detriment or annoyance of <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> His Majesties Subjects, Forts, Garrisons, Towns or Plantations within this Province<g ref="char:punc">▪</g> And that such Officer or Officers so taking to Arms, shall forthwith dispatch notice to his or their Superiour
-<pb n="93" facs="tcp:000971_0091_0FAE3A9A521A6E10"/>
+<pb n="93" facs="unknown:000971_0091_0FAE3A9A521A6E10"/>
 Officer of his or their motion and the oc<g ref="char:EOLhyphen"/>casion thereof, and observe such Com<g ref="char:EOLhyphen"/>mands and Orders as he or they shall re<g ref="char:EOLhyphen"/>ceive from him.</p>
                   <p>
                      <hi>And be it further Enacted by the Authority aforesaid,</hi> That the Colonel or Chief Officer of each Regiment be, and hereby is Impowred and Authorized, as occasion shall requi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1927,16 +1927,16 @@ Officer of his or their motion and the oc<g ref="char:EOLhyphen"/>casion thereof
                      </gap>giment u<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>der his Com<g ref="char:EOLhyphen"/>mand, or such part of them as he shall think needful, upon any Alarm, Invasion, or notice of the appearance of an Enemy by Sea or Land: And the Regiment, Com<g ref="char:EOLhyphen"/>panies or Troops so Armed, Arrayed and put into Warlike posture, or part of them, to lead, conduct and imploy, or to appoint some other fit person by writing under his hand, to lead, conduct and imploy them as well within the Regiment and County whereto they belong, as into any other adjacent County or place within this Pro<g ref="char:EOLhyphen"/>vince for the assisting, succouring and re<g ref="char:EOLhyphen"/>lieving any of His Majesties Subjects, Forts, Garrisons, Towns or places, that shall be assaulted by an Enemy, or in danger there<g ref="char:EOLhyphen"/>of,
-<pb n="94" facs="tcp:000971_0092_0FAE3A9AE9201F38"/>
+<pb n="94" facs="unknown:000971_0092_0FAE3A9AE9201F38"/>
 and with such Party, Companies or Troops, by force of Arms to Encounter, Repel, Pursue, Kill and Destroy such Ene<g ref="char:EOLhyphen"/>my or any of them, by all fitting ways, enterprizes and means whatsoever. And the Colonel or Chief Officer of such Regi<g ref="char:EOLhyphen"/>ment so taking to Arms, or sending forth any party of men, shall forthwith post a<g ref="char:EOLhyphen"/>way the intelligence and occasion thereof unto the Captain General or the Com<g ref="char:EOLhyphen"/>mander in Chief for the time being; and shall attend and observe such Directions &amp; Orders as he shall receive from him. And in case it happen the Colonel or Chief Officer of any Regiment be out of the Li<g ref="char:EOLhyphen"/>mits or Precincts of the Regiment for which he is or shall be Commissioned, at the time of any Invasion, Attack or appearance of an Enemy, or Alarm given from any of the Neighbouring Towns or Regiments, the next Commission Officer then within the Regiment shall have, use and exercise the same powers and authorities herein before granted, until the return of the Co<g ref="char:EOLhyphen"/>lonel or other Superiour Officer. And such Officer so acting shall post away the Intelligence thereof with the occasion for the same as aforesaid unto the Captain General, or the Commander in Chief for the time being, and shall attend &amp; observe
-<pb n="95" facs="tcp:000971_0093_0FAE3A9BACD53028"/>
+<pb n="95" facs="unknown:000971_0093_0FAE3A9BACD53028"/>
 such Directions and Orders as he shall re<g ref="char:EOLhyphen"/>ceive from the Captain General or Com<g ref="char:EOLhyphen"/>mander in Chief therein.</p>
                   <p>
                      <hi>And for the better preventing of false A<g ref="char:EOLhyphen"/>larms by disorderly Shooting off Guns in the night.</hi>
                   </p>
                   <p>
                      <hi>Be it further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforesaid,</hi> That no person or per<g ref="char:EOLhyphen"/>sons whatsoever in any Town or Garrison, shall, during the time of War, or of keep<g ref="char:EOLhyphen"/>ing a Military Watch in such Town or Garrison, presume to discharge or Shoot off any Gun or Guns after the Suns Setting, or before the Sun's Rising, unless in case of Alarm, approach of an Enemy, or other necessary defence. On pain that every person so offending &amp; being thereof con<g ref="char:EOLhyphen"/>victed before one or more of His Majesties Justices of the Peace shall forfeit and pay the Sum of <hi>Twenty Shillings</hi> for each Gun so discharged, one Moiety thereof to and for the use of the Poor of the Town where the Offence shall be commited, and the other Moiety to him or them that shall in<g ref="char:EOLhyphen"/>form or prosecute for the same. And if such Offender shall not have wherewith to answer the said Fine, or shall refuse or
-<pb n="96" facs="tcp:000971_0094_0FAE3A9C877F4408"/>
+<pb n="96" facs="unknown:000971_0094_0FAE3A9C877F4408"/>
 neglect to pay the same, then he shall be <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> in the Stocks not exceeding two hours time.</p>
